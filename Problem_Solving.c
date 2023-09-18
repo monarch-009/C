@@ -13,5 +13,10 @@ int main()
     {
         printf("Area is greater than Perimeter\n");
     }
+    else
+    {
+        printf("Perimeter is greater than Area.\n");
+    }
+    return 0;
 
 }
