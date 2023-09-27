@@ -9,7 +9,7 @@ int main()
     else if(n>81 && n<90)
         printf("Very Good");
     else if(n>71 && n<80)
-        printf("Goog");
+        printf("Good");
     else if(n>61 && n<70)
         printf("Can do better");
     else if (n>51 &&n<60)
